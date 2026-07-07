@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+    .desk h3 {
+        text-align: center !important;
+    }
+
+    .desk p {
+        text-align: center !important;
+    }
+
+    .desk h5 {
+        text-align: center !important;
+    }
+
+    .btn-action button {
+        justify-content: center;
+        margin: auto;
+    }
+
+    .sampul img {
+        display: none;
+    }
+
+    body {
+        background-color: white !important;
+    }
+}
