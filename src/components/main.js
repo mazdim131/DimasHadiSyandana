@@ -9,7 +9,7 @@ main.innerHTML = `
   
   <div class="d-flex gap-4 gap-md-5 ms-0 ms-md-5 justify-content-center animate__animated animate__fadeInDown">
     <div class="countPortofolio text-center">
-      <h2 class="mb-0" style="font-size: 3rem; font-weight: 700;">3</h2>
+      <h2 class="mb-0" style="font-size: 3rem; font-weight: 700;">5</h2>
       <p class="text-secondary small mb-0">Portofolio</p>
     </div>
     <div class="countSertificate text-center">
