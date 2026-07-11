@@ -17,17 +17,17 @@ modalLocation.innerHTML = `
 
             <div class="col-12 mt-2 text-start">
               <div class="p-3 bg-light rounded-3 mb-3">
-                <h6 class="fw-bold text-success mb-1">🚀 Kesiapan Kerja</h6>
+                <h6 class="fw-bold text-dark mb-1">Kesiapan Kerja</h6>
                 <p class="text-secondary small mb-0">Terbuka untuk proyek Jarak Jauh (Remote) dari mana saja serta peluang Kerja di Kantor untuk area Jabodetabek.</p>
               </div>
 
               <div class="p-3 bg-light rounded-3 mb-3">
-                <h6 class="fw-bold text-primary mb-1">🏫 Pusat Edukasi & Komunitas</h6>
+                <h6 class="fw-bold text-dark mb-1">Pusat Edukasi & Komunitas</h6>
                 <p class="text-secondary small mb-0">Berbasis di Bogor dan saat ini sedang mendalami pengembangan perangkat lunak, serta aktif terhubung dengan komunitas developer lokal.</p>
               </div>
 
               <div class="p-3 bg-light rounded-3">
-                <h6 class="fw-bold text-secondary mb-1">⏱️ Zona Waktu & Kontak</h6>
+                <h6 class="fw-bold text-dark mb-1">Zona Waktu & Kontak</h6>
                 <p class="text-secondary small mb-0">Beroperasi di Waktu Indonesia Barat (WIB). Biasanya sangat aktif dan responsif untuk diskusi atau koordinasi pada jam kerja standar.</p>
               </div>
             </div>

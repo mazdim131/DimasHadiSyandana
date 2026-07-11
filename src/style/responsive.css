@@ -23,4 +23,24 @@
     body {
         background-color: white !important;
     }
+
+    .cert-grid {
+        gap: 2px;
+    }
+
+    .cert-item {
+        border-radius: 0;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+    .cert-grid {
+        gap: 3px;
+    }
+}
+
+@media (min-width: 993px) {
+    .cert-grid {
+        gap: 4px;
+    }
 }
