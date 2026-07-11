@@ -1,6 +1,6 @@
 const main = document.getElementById("main");
 main.innerHTML = `
-<div class="container px-3 px-md-4 mt-3 mt-md-4">
+<div class="container-sm px-3 px-md-4 mt-3 mt-md-4">
   <div class="row gy-5 gx-md-5 align-items-center">
     
     <div class="col-12 col-lg-7">
